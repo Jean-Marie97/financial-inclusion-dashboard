@@ -59,3 +59,26 @@ Despite improvements in mobile money penetration, many Liberians still lack acce
 
 ## 📎 Folder Structure
 
+financial-inclusion-dashboard/
+│
+├── data/
+│ ├── raw/ # Original downloads
+│ └── cleaned/ # Transformed datasets
+│
+├── dashboards/
+│ └── powerbi/ # .pbix files
+│
+├── outputs/
+│ ├── visuals/ # Screenshots
+│ └── results/ # KPI extracts or calculations
+│
+├── reports/ # Any supporting reports
+└── README.md # This file
+
+---
+
+## ✍️ Author
+
+**Alexander J. Hemans-Yankey**  
+BI & CVM Analyst | MBA – Business Analytics  
+📧 yankeyalexander@gmail.com | 🌐 https://www.linkedin.com/in/alexander-h/
